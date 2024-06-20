@@ -1,0 +1,39 @@
+{
+  "id": "tests/visibility/some-unlisteds/unlisted-subcategory/listed1",
+  "title": "Some Unlisteds - Listed 1",
+  "description": "Regular doc",
+  "source": "@site/_dogfooding/_docs tests/tests/visibility/some-unlisteds/unlisted-subcategory/listed1.mdx",
+  "sourceDirName": "tests/visibility/some-unlisteds/unlisted-subcategory",
+  "slug": "/tests/visibility/some-unlisteds/unlisted-subcategory/listed1",
+  "permalink": "/tests/docs/tests/visibility/some-unlisteds/unlisted-subcategory/listed1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "visibility",
+      "permalink": "/tests/docs/tags/visibility"
+    },
+    {
+      "label": "listed",
+      "permalink": "/tests/docs/tags/listed"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "tags": [
+      "visibility",
+      "listed"
+    ]
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Some Unlisteds - Subcategory index unlisted",
+    "permalink": "/tests/docs/tests/visibility/some-unlisteds/unlisted-subcategory/"
+  },
+  "next": {
+    "title": "Some Unlisteds - Unlisted 3",
+    "permalink": "/tests/docs/tests/visibility/some-unlisteds/unlisted-subcategory/unlisted3"
+  }
+}

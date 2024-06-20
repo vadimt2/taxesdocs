@@ -1,0 +1,19 @@
+{
+  "id": "doc-with-another-sidebar",
+  "title": "Doc with another sidebar",
+  "description": "My link appears in a sidebar, but I want to display another sidebar...",
+  "source": "@site/_dogfooding/_docs tests/doc-with-another-sidebar.mdx",
+  "sourceDirName": ".",
+  "slug": "/doc-with-another-sidebar",
+  "permalink": "/tests/docs/doc-with-another-sidebar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "displayed_sidebar": "anotherSidebar"
+  },
+  "sidebar": "anotherSidebar"
+}

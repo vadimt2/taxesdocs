@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/2021/01/19/docusaurus-2020-recap",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2021/01-19-docusaurus-2020-recap.mdx",
+  "source": "@site/blog/2021/01-19-docusaurus-2020-recap.mdx",
+  "title": "Docusaurus 2020 Recap",
+  "description": "2020 was great for Docusaurus, despite a regrettable start and a tumultuous year for everyone.",
+  "date": "2021-01-19T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "recap",
+      "permalink": "/blog/tags/recap"
+    }
+  ],
+  "readingTime": 5.04,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer, This Week In React editor",
+      "url": "https://thisweekinreact.com",
+      "twitter": "sebastienlorber",
+      "email": "sebastien@thisweekinreact.com",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    }
+  ],
+  "frontMatter": {
+    "title": "Docusaurus 2020 Recap",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "recap"
+    ],
+    "image": "/img/docusaurus-2020-recap.png"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Releasing Docusaurus i18n",
+    "permalink": "/blog/2021/03/09/releasing-docusaurus-i18n"
+  },
+  "nextItem": {
+    "title": "Tribute to Endi",
+    "permalink": "/blog/2020/01/07/tribute-to-endi"
+  }
+}

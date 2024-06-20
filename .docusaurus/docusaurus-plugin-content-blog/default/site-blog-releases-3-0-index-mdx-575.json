@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/releases/3.0",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/releases/3.0/index.mdx",
+  "source": "@site/blog/releases/3.0/index.mdx",
+  "title": "Announcing Docusaurus 3.0",
+  "description": "Today, we are happy to announce Docusaurus 3.0! 🥳",
+  "date": "2023-10-31T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "readingTime": 10.515,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer, This Week In React editor",
+      "url": "https://thisweekinreact.com",
+      "twitter": "sebastienlorber",
+      "email": "sebastien@thisweekinreact.com",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    }
+  ],
+  "frontMatter": {
+    "title": "Announcing Docusaurus 3.0",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "release"
+    ],
+    "image": "./img/social-card.png",
+    "date": "2023-10-31T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Docusaurus 3.1",
+    "permalink": "/blog/releases/3.1"
+  },
+  "nextItem": {
+    "title": "Preparing your site for Docusaurus v3",
+    "permalink": "/blog/preparing-your-site-for-docusaurus-v3"
+  }
+}

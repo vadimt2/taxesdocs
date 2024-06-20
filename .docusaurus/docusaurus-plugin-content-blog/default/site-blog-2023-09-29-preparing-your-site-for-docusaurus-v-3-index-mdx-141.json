@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/preparing-your-site-for-docusaurus-v3",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2023/09-29-preparing-your-site-for-docusaurus-v3/index.mdx",
+  "source": "@site/blog/2023/09-29-preparing-your-site-for-docusaurus-v3/index.mdx",
+  "title": "Preparing your site for Docusaurus v3",
+  "description": "This blog post was written when Docusaurus v3 was in beta. There are some changes in dependency versions and upgrade steps you should be aware of if upgrading to Docusaurus v3 current stable releases. Use the upgrade guide for the most up-to-date migration steps.",
+  "date": "2023-09-29T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "maintenance",
+      "permalink": "/blog/tags/maintenance"
+    }
+  ],
+  "readingTime": 13.975,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer, This Week In React editor",
+      "url": "https://thisweekinreact.com",
+      "twitter": "sebastienlorber",
+      "email": "sebastien@thisweekinreact.com",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    }
+  ],
+  "frontMatter": {
+    "title": "Preparing your site for Docusaurus v3",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "maintenance"
+    ],
+    "slug": "/preparing-your-site-for-docusaurus-v3",
+    "image": "./img/social-card.png"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Announcing Docusaurus 3.0",
+    "permalink": "/blog/releases/3.0"
+  },
+  "nextItem": {
+    "title": "Upgrading frontend dependencies with confidence",
+    "permalink": "/blog/upgrading-frontend-dependencies-with-confidence-using-visual-regression-testing"
+  }
+}

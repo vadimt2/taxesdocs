@@ -1,0 +1,69 @@
+{
+  "permalink": "/changelog/2.0.0-alpha.63",
+  "source": "@site/changelog/source/2.0.0-alpha.63.md",
+  "title": "2.0.0-alpha.63",
+  "description": "New Feature",
+  "date": "2020-09-03T20:00:00.000Z",
+  "tags": [],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Méril",
+      "alias": "mpsq",
+      "url": "https://github.com/mpsq",
+      "imageURL": "https://github.com/mpsq.png",
+      "key": "mpsq"
+    },
+    {
+      "name": "Sam Ko",
+      "alias": "samsisle",
+      "url": "https://github.com/samsisle",
+      "imageURL": "https://github.com/samsisle.png",
+      "key": "samsisle"
+    },
+    {
+      "name": "Bartosz Kaszubowski",
+      "alias": "Simek",
+      "url": "https://github.com/Simek",
+      "imageURL": "https://github.com/Simek.png",
+      "key": "Simek"
+    },
+    {
+      "name": "Sébastien Lorber",
+      "alias": "slorber",
+      "url": "https://github.com/slorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    },
+    {
+      "name": "Thad Guidry",
+      "alias": "thadguidry",
+      "url": "https://github.com/thadguidry",
+      "imageURL": "https://github.com/thadguidry.png",
+      "key": "thadguidry"
+    }
+  ],
+  "frontMatter": {
+    "mdx": {
+      "format": "md"
+    },
+    "date": "2020-09-03T20:00",
+    "authors": [
+      "mpsq",
+      "samsisle",
+      "Simek",
+      "slorber",
+      "thadguidry"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "2.0.0-alpha.64",
+    "permalink": "/changelog/2.0.0-alpha.64"
+  },
+  "nextItem": {
+    "title": "2.0.0-alpha.62",
+    "permalink": "/changelog/2.0.0-alpha.62"
+  },
+  "listPageLink": "/changelog/page/3"
+}

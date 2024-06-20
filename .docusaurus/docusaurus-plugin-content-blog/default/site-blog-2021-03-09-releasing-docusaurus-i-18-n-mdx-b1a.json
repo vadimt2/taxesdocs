@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/2021/03/09/releasing-docusaurus-i18n",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2021/03-09-releasing-docusaurus-i18n.mdx",
+  "source": "@site/blog/2021/03-09-releasing-docusaurus-i18n.mdx",
+  "title": "Releasing Docusaurus i18n",
+  "description": "Today, we officially release Docusaurus 2 i18n (internationalization), as part of 2.0.0-alpha.71.",
+  "date": "2021-03-09T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "label": "i18n",
+      "permalink": "/blog/tags/i-18-n"
+    }
+  ],
+  "readingTime": 3.445,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer, This Week In React editor",
+      "url": "https://thisweekinreact.com",
+      "twitter": "sebastienlorber",
+      "email": "sebastien@thisweekinreact.com",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    }
+  ],
+  "frontMatter": {
+    "title": "Releasing Docusaurus i18n",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "release",
+      "i18n"
+    ],
+    "image": "/img/blog/2021-03-09-releasing-docusaurus-i18n/social-card.png"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Announcing Docusaurus 2 Beta",
+    "permalink": "/blog/2021/05/12/announcing-docusaurus-two-beta"
+  },
+  "nextItem": {
+    "title": "Docusaurus 2020 Recap",
+    "permalink": "/blog/2021/01/19/docusaurus-2020-recap"
+  }
+}

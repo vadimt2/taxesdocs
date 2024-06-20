@@ -1,0 +1,99 @@
+{
+  "permalink": "/blog/2022/08/01/announcing-docusaurus-2.0",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2022/08-01-announcing-docusaurus-2.0/index.mdx",
+  "source": "@site/blog/2022/08-01-announcing-docusaurus-2.0/index.mdx",
+  "title": "Announcing Docusaurus 2.0",
+  "description": "Today we are extremely happy to finally announce Docusaurus 2.0! 🥳️",
+  "date": "2022-08-01T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "readingTime": 12.075,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer, This Week In React editor",
+      "url": "https://thisweekinreact.com",
+      "twitter": "sebastienlorber",
+      "email": "sebastien@thisweekinreact.com",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    },
+    {
+      "name": "Joshua Chen",
+      "title": "Working hard on Docusaurus",
+      "url": "https://joshcena.com/",
+      "email": "sidachen2003@gmail.com",
+      "imageURL": "https://github.com/josh-cena.png",
+      "key": "Josh-Cena"
+    },
+    {
+      "name": "Yangshun Tay",
+      "title": "Front End Engineer at Meta",
+      "url": "https://github.com/yangshun",
+      "twitter": "yangshunz",
+      "email": "tay.yang.shun@gmail.com",
+      "imageURL": "https://github.com/yangshun.png",
+      "key": "yangshun"
+    },
+    {
+      "name": "Alexey Pyltsyn",
+      "title": "Open-source enthusiast",
+      "url": "https://github.com/lex111",
+      "email": "lex@php.net",
+      "imageURL": "https://github.com/lex111.png",
+      "key": "lex111"
+    },
+    {
+      "name": "Paul O’Shannessy",
+      "title": "Engineering Manager at Meta",
+      "url": "https://twitter.com/zpao",
+      "email": "jimarcey@gmail.com",
+      "twitter": "zpao",
+      "imageURL": "https://github.com/zpao.png",
+      "key": "zpao"
+    },
+    {
+      "name": "Joel Marcey",
+      "title": "Co-creator of Docusaurus 1",
+      "url": "https://twitter.com/JoelMarcey",
+      "email": "jimarcey@gmail.com",
+      "twitter": "JoelMarcey",
+      "imageURL": "https://github.com/JoelMarcey.png",
+      "key": "JMarcey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Announcing Docusaurus 2.0",
+    "authors": [
+      "slorber",
+      "Josh-Cena",
+      "yangshun",
+      "lex111",
+      "zpao",
+      {
+        "key": "JMarcey",
+        "title": "Co-creator of Docusaurus 1"
+      }
+    ],
+    "tags": [
+      "release"
+    ],
+    "image": "./img/social-card.png"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Docusaurus 2.1",
+    "permalink": "/blog/2022/09/01/docusaurus-2.1"
+  },
+  "nextItem": {
+    "title": "Docusaurus 2021 Recap",
+    "permalink": "/blog/2022/01/24/docusaurus-2021-recap"
+  }
+}

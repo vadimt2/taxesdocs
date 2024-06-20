@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-google-analytics",
+  "title": "📦 plugin-google-analytics",
+  "description": "The default Google Analytics plugin. It is a JavaScript library for measuring how users interact with your website in the production build. If you are using Google Analytics 4 you might need to consider using plugin-google-gtag instead.",
+  "source": "@site/docs/api/plugins/plugin-google-analytics.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-google-analytics",
+  "permalink": "/docs/api/plugins/@docusaurus/plugin-google-analytics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-google-analytics.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "slug": "/api/plugins/@docusaurus/plugin-google-analytics"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-debug",
+    "permalink": "/docs/api/plugins/@docusaurus/plugin-debug"
+  },
+  "next": {
+    "title": "📦 plugin-google-gtag",
+    "permalink": "/docs/api/plugins/@docusaurus/plugin-google-gtag"
+  }
+}

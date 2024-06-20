@@ -1,0 +1,30 @@
+{
+  "id": "api/plugins/plugin-pwa",
+  "title": "📦 plugin-pwa",
+  "description": "Docusaurus Plugin to add PWA support using Workbox. This plugin generates a Service Worker in production build only, and allows you to create fully PWA-compliant documentation site with offline and installation support.",
+  "source": "@site/docs/api/plugins/plugin-pwa.mdx",
+  "sourceDirName": "api/plugins",
+  "slug": "/api/plugins/@docusaurus/plugin-pwa",
+  "permalink": "/docs/api/plugins/@docusaurus/plugin-pwa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/api/plugins/plugin-pwa.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "slug": "/api/plugins/@docusaurus/plugin-pwa"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "📦 plugin-ideal-image",
+    "permalink": "/docs/api/plugins/@docusaurus/plugin-ideal-image"
+  },
+  "next": {
+    "title": "📦 plugin-sitemap",
+    "permalink": "/docs/api/plugins/@docusaurus/plugin-sitemap"
+  }
+}

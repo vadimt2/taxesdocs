@@ -1,0 +1,69 @@
+{
+  "permalink": "/tests/blog/2021/10/07/blog-post-mdx-feed-tests",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_blog-tests/_dogfooding/_blog tests/2021-10-07-blog-post-mdx-feed-tests.mdx",
+  "source": "@site/_dogfooding/_blog tests/2021-10-07-blog-post-mdx-feed-tests.mdx",
+  "title": "Blog post MDX Feed tests",
+  "description": "Some MDX tests, mostly to test how the RSS feed render those",
+  "date": "2021-10-07T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "paginated-tag",
+      "permalink": "/tests/blog/tags/paginated-tag"
+    },
+    {
+      "label": "blog",
+      "permalink": "/tests/blog/tags/blog"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/tests/blog/tags/docusaurus"
+    },
+    {
+      "label": "long-long",
+      "permalink": "/tests/blog/tags/long-long"
+    },
+    {
+      "label": "long-long-long",
+      "permalink": "/tests/blog/tags/long-long-long"
+    },
+    {
+      "label": "long-long-long-long",
+      "permalink": "/tests/blog/tags/long-long-long-long"
+    }
+  ],
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Sebastien Lorber",
+      "title": "Docusaurus maintainer",
+      "url": "https://sebastienlorber.com",
+      "twitter": "sebastienlorber",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    }
+  ],
+  "frontMatter": {
+    "title": "Blog post MDX Feed tests",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "paginated-tag",
+      "blog",
+      "docusaurus",
+      "long-long",
+      "long-long-long",
+      "long-long-long-long"
+    ],
+    "hide_reading_time": true
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Blog post MDX require Feed tests",
+    "permalink": "/tests/blog/2021/10/08/blog-post-mdx-require-feed-tests"
+  },
+  "nextItem": {
+    "title": "Post with duplicate title",
+    "permalink": "/tests/blog/2021/09/13/dup-title"
+  }
+}

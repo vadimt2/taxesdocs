@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/2022/09/01/docusaurus-2.1",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2022/09-01-docusaurus-2.1/index.mdx",
+  "source": "@site/blog/2022/09-01-docusaurus-2.1/index.mdx",
+  "title": "Docusaurus 2.1",
+  "description": "We are happy to announce Docusaurus 2.1, our very first minor version release.",
+  "date": "2022-09-01T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "readingTime": 1.725,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer, This Week In React editor",
+      "url": "https://thisweekinreact.com",
+      "twitter": "sebastienlorber",
+      "email": "sebastien@thisweekinreact.com",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    }
+  ],
+  "frontMatter": {
+    "title": "Docusaurus 2.1",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "release"
+    ],
+    "image": "./img/social-card.png"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Docusaurus 2.2",
+    "permalink": "/blog/releases/2.2"
+  },
+  "nextItem": {
+    "title": "Announcing Docusaurus 2.0",
+    "permalink": "/blog/2022/08/01/announcing-docusaurus-2.0"
+  }
+}

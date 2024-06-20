@@ -1,0 +1,45 @@
+{
+  "id": "more-test",
+  "title": "Another test page",
+  "description": "Test link",
+  "source": "@site/_dogfooding/_docs tests/more-test.mdx",
+  "sourceDirName": ".",
+  "slug": "/more-test",
+  "permalink": "/tests/docs/more-test",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "a",
+      "permalink": "/tests/docs/tags/a"
+    },
+    {
+      "label": "e",
+      "permalink": "/tests/docs/tags/e"
+    },
+    {
+      "label": "some-tag",
+      "permalink": "/tests/docs/tags/some-tag"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "tags": [
+      "a",
+      "e",
+      "some-tag",
+      "some_tag"
+    ]
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Another category with index",
+    "permalink": "/tests/docs/category/another-category-with-index"
+  },
+  "next": {
+    "title": "toc-2-2",
+    "permalink": "/tests/docs/toc/toc-2-2"
+  }
+}

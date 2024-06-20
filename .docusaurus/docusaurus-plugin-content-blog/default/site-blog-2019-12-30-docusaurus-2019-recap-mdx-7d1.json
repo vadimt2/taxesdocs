@@ -1,0 +1,45 @@
+{
+  "permalink": "/blog/2019/12/30/docusaurus-2019-recap",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2019/12-30-docusaurus-2019-recap.mdx",
+  "source": "@site/blog/2019/12-30-docusaurus-2019-recap.mdx",
+  "title": "Docusaurus 2019 Recap",
+  "description": "2019 was a great year for Docusaurus - we've made tremendous progress on Docusaurus 2. Current Docusaurus 1 users who aren't using the translations feature can feel free to check it out and migrate to it! Otherwise we will work with you to make that happen in 2020 :)",
+  "date": "2019-12-30T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "recap",
+      "permalink": "/blog/tags/recap"
+    }
+  ],
+  "readingTime": 2.72,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Yangshun Tay",
+      "title": "Front End Engineer at Meta",
+      "url": "https://github.com/yangshun",
+      "twitter": "yangshunz",
+      "email": "tay.yang.shun@gmail.com",
+      "imageURL": "https://github.com/yangshun.png",
+      "key": "yangshun"
+    }
+  ],
+  "frontMatter": {
+    "title": "Docusaurus 2019 Recap",
+    "authors": "yangshun",
+    "tags": [
+      "recap"
+    ]
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "Tribute to Endi",
+    "permalink": "/blog/2020/01/07/tribute-to-endi"
+  },
+  "nextItem": {
+    "title": "Happy 1st Birthday Slash!",
+    "permalink": "/blog/2018/12/14/Happy-First-Birthday-Slash"
+  }
+}

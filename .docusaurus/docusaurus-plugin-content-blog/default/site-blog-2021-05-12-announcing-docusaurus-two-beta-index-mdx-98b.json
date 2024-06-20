@@ -1,0 +1,87 @@
+{
+  "permalink": "/blog/2021/05/12/announcing-docusaurus-two-beta",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/2021/05-12-announcing-docusaurus-two-beta/index.mdx",
+  "source": "@site/blog/2021/05-12-announcing-docusaurus-two-beta/index.mdx",
+  "title": "Announcing Docusaurus 2 Beta",
+  "description": "After a lengthy alpha stage in order to ensure feature parity and quality, we are excited to officially release the first Docusaurus 2 beta.",
+  "date": "2021-05-12T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "label": "beta",
+      "permalink": "/blog/tags/beta"
+    }
+  ],
+  "readingTime": 3.52,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer, This Week In React editor",
+      "url": "https://thisweekinreact.com",
+      "twitter": "sebastienlorber",
+      "email": "sebastien@thisweekinreact.com",
+      "imageURL": "./img/slorber.png",
+      "key": "slorber",
+      "image_url": "./img/slorber.png"
+    },
+    {
+      "name": "Joel Marcey",
+      "title": "Developer Advocate at Meta",
+      "url": "https://twitter.com/JoelMarcey",
+      "email": "jimarcey@gmail.com",
+      "twitter": "JoelMarcey",
+      "imageURL": "https://github.com/JoelMarcey.png",
+      "key": "JMarcey"
+    },
+    {
+      "name": "Yangshun Tay",
+      "title": "Front End Engineer at Meta",
+      "url": "https://github.com/yangshun",
+      "twitter": "yangshunz",
+      "email": "tay.yang.shun@gmail.com",
+      "imageURL": "https://github.com/yangshun.png",
+      "key": "yangshun"
+    },
+    {
+      "name": "Alexey Pyltsyn",
+      "title": "Open-source enthusiast",
+      "url": "https://github.com/lex111",
+      "email": "lex@php.net",
+      "imageURL": "https://github.com/lex111.png",
+      "key": "lex111"
+    }
+  ],
+  "frontMatter": {
+    "title": "Announcing Docusaurus 2 Beta",
+    "authors": [
+      {
+        "key": "slorber",
+        "image_url": "./img/slorber.png",
+        "imageURL": "./img/slorber.png"
+      },
+      "JMarcey",
+      "yangshun",
+      "lex111"
+    ],
+    "tags": [
+      "release",
+      "beta"
+    ],
+    "image": "./img/social-card.png"
+  },
+  "unlisted": false,
+  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedBy": "Author",
+  "prevItem": {
+    "title": "DocSearch migration",
+    "permalink": "/blog/2021/11/21/algolia-docsearch-migration"
+  },
+  "nextItem": {
+    "title": "Releasing Docusaurus i18n",
+    "permalink": "/blog/2021/03/09/releasing-docusaurus-i18n"
+  }
+}
